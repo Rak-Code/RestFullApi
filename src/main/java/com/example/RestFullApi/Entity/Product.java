@@ -16,19 +16,47 @@ public class Product {
         this.category = category;
     }
 
-    public Long getId() { return id; }
-    public void setId(Long id) { this.id = id; }
+	public Long getId() {
+		return id;
+	}
 
-    public String getName() { return name; }
-    public void setName(String name) { this.name = name; }
+	public void setId(Long id) {
+		this.id = id;
+	}
 
-    public double getPrice() { return price; }
-    public void setPrice(double price) { this.price = price; }
+	public String getName() {
+		return name;
+	}
 
-    public String getSize() { return size; }
-    public void setSize(String size) { this.size = size; }
+	public void setName(String name) {
+		this.name = name;
+	}
 
-    public String getCategory() { return category; }
-    public void setCategory(String category) { this.category = category; }
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	public String getSize() {
+		return size;
+	}
+
+	public void setSize(String size) {
+		this.size = size;
+	}
+
+	public String getCategory() {
+		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
+    
+
 }
 
