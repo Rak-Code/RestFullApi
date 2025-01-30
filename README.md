@@ -1,6 +1,4 @@
-Sure! Here's a sample `README.md` for your project:
 
----
 
 # E-Commerce Backend System - RESTful API
 
@@ -178,6 +176,3 @@ You can test the API endpoints using **Postman** or **cURL** by sending the corr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This `README` should provide clear guidance on how to use and test the API, as well as information on the application’s functionality and structure.
